@@ -1,14 +1,14 @@
 @font-face {
     font-family: raleway-medium;
-    src: url(./raleway/Raleway-Medium.ttf);
+    src: url(./Raleway-Medium.ttf);
 }
 @font-face {
     font-family: raleway-bold;
-    src: url(./raleway/Raleway-Bold.ttf);
+    src: url(./Raleway-Bold.ttf);
 }
 @font-face {
     font-family: spline;
-    src: url(./Spline_Sans/SplineSans-VariableFont_wght.ttf);
+    src: url(./SplineSans-VariableFont_wght.ttf);
 }
 
 *{
@@ -685,7 +685,7 @@ body{
     border-radius: 60px;
     margin-top:4em;
     overflow: hidden;
-    background-image: url(./images/blackbglogo.png);
+    background-image: url(./blackbglogo.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position:bottom;
